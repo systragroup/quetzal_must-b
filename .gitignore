@@ -1,2 +1,16 @@
 scenarios/*
 notebooks/_logs/*
+inputs_/*
+
+inputs/EMT/*
+inputs/MT_/*
+inputs/socio_eco/*
+inputs/pt/*
+!inputs/pt/raw
+!inputs/pt/links.geojson
+!inputs/pt/nodes.geojson
+inputs/road
+!inputs/road/simple_rl.geojson
+!inputs/road/simple_rn.geojson
+inputs/zones/*
+!inputs/zones/final
