@@ -3,8 +3,11 @@ notebooks/_logs/*
 inputs_/*
 
 inputs/EMT/*
+!inputs/EMT/menages.csv
+!inputs/EMT/personnes.csv
+!inputs/EMT/deplacements.csv
+!inputs/EMT/trajets.csv
 inputs/MT_/*
-inputs/socio_eco/*
 inputs/pt/*
 !inputs/pt/raw
 !inputs/pt/links.geojson
